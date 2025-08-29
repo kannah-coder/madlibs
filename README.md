@@ -11,9 +11,5 @@ A simple Python project that creates funny stories based on your inputs.
 - `madlibs.py` → main Python script  
 - `story.txt` → story template with placeholders  
 
-##Run the project  
-Clone this repo and run:  
-```bash
-git clone https://github.com/your-username/madlibs-story.git
-cd madlibs-story
-python madlibs.py
+ 
+ 
